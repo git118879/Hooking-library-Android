@@ -19,7 +19,7 @@
       on 7/12/2022 for educatuonal perpose only :) **/
       
 #include "include/Includes.h"
-#include "include/logger.h"
+#include "include/Logger.h"
 #include "Hooking/And64InlineHook.hpp"
 #include "Buffers/fake_dlfcn.h"
 #include "include/obfuscate.h"
